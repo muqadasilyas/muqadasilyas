@@ -192,21 +192,10 @@ I enjoy transforming ideas into practical software—from intelligent AI applica
 
 <br>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muqadasilyas&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muqadasilyas&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
