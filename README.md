@@ -4,20 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Systems+Programmer;Building+Intelligent+Software" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/muqadasilyas">
-    <img src="https://komarev.com/ghpvc/?username=muqadasilyas&label=Profile%20Views&color=4F8EF7&style=for-the-badge"/>
-  </a>
 
-  <a href="https://github.com/muqadasilyas?tab=followers">
-    <img src="https://img.shields.io/github/followers/muqadasilyas?style=for-the-badge&logo=github"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/CGPA-3.77%2F4.00-success?style=for-the-badge"/>
-
-</p>
-
-</div>
 
 ---
 
