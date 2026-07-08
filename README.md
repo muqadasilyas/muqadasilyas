@@ -4,7 +4,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Systems+Programmer;Building+Intelligent+Software" alt="Typing SVG" />
 
+<p>
+  
 
+  <img src="https://img.shields.io/badge/CGPA-3.77%2F4.00-success?style=for-the-badge"/>
+
+</p>
+
+</div>
 
 ---
 
