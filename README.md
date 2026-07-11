@@ -19,8 +19,6 @@ My interests span across:
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌐 Full-Stack Web Development
 - ⚙️ Systems Programming
-- 🔐 Cybersecurity
-- ☁️ Cloud Computing
 - 🏗 Software Architecture
 
 I enjoy transforming ideas into practical software—from intelligent AI applications and secure systems to responsive web platforms.
@@ -30,7 +28,6 @@ I enjoy transforming ideas into practical software—from intelligent AI applica
 # 🚀 Currently
 
 - 🔭 Building AI-powered applications
-- 🌱 Learning AWS Cloud & Distributed Systems
 - 💻 Solving Data Structures & Algorithms
 - 📚 Exploring Large Language Models (LLMs)
 - 🎯 Looking for AI / Full-Stack / Software Engineering Internship opportunities
@@ -92,16 +89,6 @@ I enjoy transforming ideas into practical software—from intelligent AI applica
 - Agile Development
 
 ---
-
-## Networking & Cybersecurity
-
-- VLANs
-- OSPF
-- ACLs
-- DHCP
-- Cisco Packet Tracer
-- Enterprise Network Design
-- Intrusion Detection
 
 ---
 
@@ -165,32 +152,6 @@ I enjoy transforming ideas into practical software—from intelligent AI applica
 
 `ESP32` `Arduino` `Blynk`
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muqadasilyas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqadasilyas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muqadasilyas&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-
-
----
-
 
 ---
 
@@ -208,7 +169,6 @@ I enjoy transforming ideas into practical software—from intelligent AI applica
 
 # 📚 Currently Learning
 
-- AWS Cloud
 - Advanced Machine Learning
 - System Design
 - Distributed Systems
